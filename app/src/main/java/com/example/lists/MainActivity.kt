@@ -63,7 +63,7 @@ fun Greeting() {
                 listNames.sort()
                 name = ""
             }, modifier = buttonmodyfier) {
-                Text(text = "Add")
+                Text(text = "Add MORE")
             }
         }
         LazyColumn {
